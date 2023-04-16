@@ -14,7 +14,7 @@ Tato data obsahují kromě věku (data narození), který NRF ve zprávě k výs
 
 ## Odkazy k získání a vyhodnocení reportu
 
-[PRO OC Mutation Finder](https://github.com/PRO-OC/pro-oc-mutation-finder)
+[PRO OC Mutation Finder](https://github.com/PRO-OC/pro-oc-mutation-finder)\
 [Přehledy zpracované Národní referenční laboratoří pro SARS-CoV-2 - NRL pro chřipku](https://dastacr.cz/SARS-CoV-2.html)\
 [Outbreak.info](https://outbreak.info/situation-reports)\
 [virus.img.cas.cz](https://virus.img.cas.cz/)\
