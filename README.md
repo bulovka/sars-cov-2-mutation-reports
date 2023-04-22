@@ -18,5 +18,5 @@ Tato data obsahují kromě věku (data narození), který NRF ve zprávě k výs
 [Přehledy zpracované Národní referenční laboratoří pro SARS-CoV-2 - NRL pro chřipku](https://dastacr.cz/SARS-CoV-2.html)\
 [Outbreak.info](https://outbreak.info/situation-reports)\
 [virus.img.cas.cz](https://virus.img.cas.cz/)\
-[Obdobný report z VFN - Všeobecné fakultní nemocnice v Praze](https://github.com/PRO-OC/pro-oc-mutation-finder-vfn-reports)
+[Obdobný report z VFN - Všeobecné fakultní nemocnice v Praze](https://github.com/PRO-OC/pro-oc-mutation-finder-vfn-reports)\
 [Vyhodnocení reportu v návaznosti na report z VFN a projekt celogenomového sekvenování virus.img.cas.cz](https://github.com/PRO-OC/stats-mutations-and-lineages)
